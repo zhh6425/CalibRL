@@ -18,7 +18,7 @@ bash scripts/install_vllm_sglang_mcore.sh
 USE_MEGATRON=0 bash scripts/install_vllm_sglang_mcore.sh
 
 # Install
-pip install --no-deps -e .
+pip install -e .
 ```
 
 ## Training
