@@ -8,7 +8,7 @@ or simply follow what we do:
 
 ```
 # create env
-conda create -n verl python==3.12
+conda create -n verl python==3.11
 conda activate verl
 
 # Make sure you have activated verl conda env
