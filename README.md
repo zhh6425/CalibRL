@@ -1,5 +1,16 @@
-# Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning
+<h1 align="center">Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning</h1>
 
+<div>
+<br>
+
+<div align="center">
+
+[![Github](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)]()
+[![arXiv](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arXiv&logoColor=white&labelColor)]()
+
+</div>
+
+---
 ## Installation
 
 You can follow the instruction from [VeRL](https://verl.readthedocs.io/en/latest/start/install.html)
