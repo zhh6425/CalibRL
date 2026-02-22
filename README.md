@@ -47,3 +47,18 @@ data.train_files=[YOUR_DATA_PARQUET]
 make sure your dataset contain the expert CoT in ```'solution'``` key
 
 or simply modify ```data.pref_key``` to your own CoT key.
+
+## Citation
+
+If you find this code useful for your research, please cite the following paper.
+
+```bibtex
+@inproceedings{
+huang2026controllable,
+title={Controllable Exploration in Hybrid-Policy {RLVR} for Multi-Modal Reasoning},
+author={Zhuoxu Huang and Mengxi Jia and Hao Sun and Xuelong Li and Jungong Han},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=5wxyCidRsK}
+}
+```
