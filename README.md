@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Github](https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/zhh6425/CalibRL/tree/main)
-[![arXiv](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arXiv&logoColor=white&labelColor)]()
+[![arXiv](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arXiv&logoColor=white&labelColor)](https://openreview.net/forum?id=5wxyCidRsK)
 
 </div>
 
