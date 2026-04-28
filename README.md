@@ -1,4 +1,4 @@
-<h1 align="center">Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning</h1>
+<h1 align="left">[ICLR 2026] Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning</h1>
 
 <div>
 <br>
